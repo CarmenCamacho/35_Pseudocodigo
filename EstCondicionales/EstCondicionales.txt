@@ -1,0 +1,34 @@
+Ejercicios con condicionales simples y múltiples:
+
+1. 	Inicio
+	Pide 3 calificaciones de un alumno
+	lee 'A' 'B' 'c'
+	Promedio=((A+B+C)/3)
+	Si Promedio>=6
+	   Muestra "El alumno aprueba con un promedio de 'Promedio"
+	Si no
+	   Muestra "No aprobado"
+	Fin
+
+2. 	Inicio
+	Pide 2 numeros
+	Lee 'A' y 'B'
+	Si A>B
+	   Muestra "'A' es el Mayor"
+	Si no
+	   Muestra "'B' es el Mayor"
+	Fin
+
+3. 	Inicio
+	Pide un numero 
+	Lee 'NUM'
+	Si NUM>0
+	   Muestra "El numero es positivo"
+	Si no
+	   Muestra "El numero es negativo
+	Fin
+
+4.	Inicio
+	
+	
+	
